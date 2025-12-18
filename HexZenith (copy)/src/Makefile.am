@@ -14,7 +14,9 @@ hexzenith_SOURCES = \
 	callbacks.c callbacks.h \
 	treeview.c treeview.h \
         centres.c centres.h \
-        inscriptions.c inscriptions.h
+        inscriptions.c inscriptions.h \
+	equipement.c equipement.h \
+	reservation.c reservation.h
 
 hexzenith_LDADD = @PACKAGE_LIBS@ $(INTLLIBS)
 

@@ -1,0 +1,7 @@
+1 admin admin123 1
+2 trainer1 pass1 101
+2 trainer2 pass2 102
+2 trainer3 pass3 103
+3 membre1 mempass1 13033800
+3 membre2 mempass2 202
+3 membre3 mempass3 203

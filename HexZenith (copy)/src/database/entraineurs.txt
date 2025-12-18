@@ -1,0 +1,5 @@
+12345678,Ben Ahmed,Mohamed,0,Fitness,15/05/1985,0
+87654321,Trabelsi,Salma,1,Yoga,22/08/1990,1
+11223344,Jlassi,Karim,0,Musculation,10/03/1988,1
+55667788,Gharbi,Amira,1,Pilates,18/11/1992,1
+99887766,Mansour,Tarek,0,CrossFit,05/07/1987,0

@@ -1,0 +1,12 @@
+c001 Box           cardio      12 12 2025  10 11  1  25  Tunis   0
+c002 Dance         oriental    10 04 2025  14 15  0  20  Bizerte 0
+c003 Natation      cardio      22 11 2025  08 09  2  18  Tunis   0
+c004 Zumba         cardio      05 10 2025  17 18  0  30  Ariana  0
+c005 Musculation   force       14 07 2025  09 11  1  35  Tunis   0
+c006 Yoga          relax       03 03 2025  08 09  0  20  Ariana  0
+c007 Pilates       relax       15 06 2025  11 12  0  20  Tunis   0
+c008 Step          cardio      18 09 2025  16 17  2  22  Bizerte 0
+c009 Crossfit      intensif    20 05 2025  18 20  2  30  Tunis   0
+c010 Aerobic       cardio      11 08 2025  10 11  0  28  Ariana  0
+c011 Kickboxing    combat      25 09 2025  17 19  2  25  Tunis   0
+c012 Stretch       relax       19 01 2025  15 16  0  15  Bizerte 0

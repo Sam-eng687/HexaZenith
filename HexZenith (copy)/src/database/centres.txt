@@ -1,0 +1,5 @@
+# ID,Nom,Type,Capacité,Ouvert,Parking,Wifi,Cafeteria,Ville
+C001,Gold's Gym,Fitness,120,1,1,1,1,Paris
+C003,Piscine Municipale,Swimming,200,1,1,0,1,Marseille
+C004,Boxing Club,Boxing,50,0,0,1,0,Lille
+C005,Gym For You,Pilates,50,1,1,1,0,Manouba

@@ -1,0 +1,6 @@
+A020 ballon_vert type5 800
+A004 basket type2 157
+M001 tapis_rouge tapis 700
+A005 bisclette type3 138
+A003 ballon type2 471
+A022 Tapis_rose type2 1000

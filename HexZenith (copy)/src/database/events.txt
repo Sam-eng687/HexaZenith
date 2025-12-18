@@ -1,0 +1,6 @@
+C120,Marathon de Tunis,Sportif,Centre Sportif,15/03/2025,0
+E250,Concert de Jazz,Culturel,Centre Culturel,20/04/2025,1
+E652,Atelier de Poterie,Artistique,Centre des Arts,10/05/2025,0
+E210,Conference Tech,Technologique,Centre de Formation,25/06/2025,1
+E658,Tournoi d'Echecs,Sportif,Centre de Loisirs,30/07/2025,0
+E001,Exposition Photo,Culturel,Centre Jeunesse,15/08/2025,1

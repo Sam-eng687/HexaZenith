@@ -13,8 +13,8 @@ hexzenith_SOURCES = \
 	interface.c interface.h \
 	callbacks.c callbacks.h \
 	treeview.c treeview.h \
-        centres.c centres.h \
-        inscriptions.c inscriptions.h \
+    centres.c centres.h \
+    inscriptions.c inscriptions.h \
 	equipement.c equipement.h \
 	reservation.c reservation.h
 
